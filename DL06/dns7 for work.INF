@@ -1,10 +1,10 @@
 [ProjectInfo]
-Path=d:\intachapp\прошивка из контроллера 01июля 2014 с комментариями для работы\dns7 for work.prj
-Save Date=07/09/14 09:46:19
-Creation Date=07/04/14 11:40:30
+Path=c:\work\gitrepo\dns7onchugino\dl06\dns7 for work.prj
+Save Date=07/11/14 14:06:30
+Creation Date=07/11/14 12:18:08
 PLC Type=06
 Class ID=7
-Link Name=dl06eth
+Link Name=DL06ETH
 Description=
 [ProjectInfoUser]
 &Version=
